@@ -14,7 +14,7 @@ However, running locally can also be done.
 1. Install Roblox Studio from the [Roblox website](https://create.roblox.com/docs/studio/setup)
 2. Follow login/signup
 3. Download the TheWindowsV2.rbxl from this repo.
-4. Double click/open with Roblox studio.
+4. Double click/open the file with Roblox studio.
 5. Click the playtest button at the top left of screen.
 
 ## Gameplay
