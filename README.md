@@ -8,6 +8,14 @@ Short Demo video here: https://www.youtube.com/watch?v=xBJAlXhZvNY
 
 
 Players restock the store, help customers at the register, and take part in small conversations that reveal pieces of the people around them. A phone call from home and a request from a coworker eventually force Miles to make a choice, leading to different closing scenes.
+## Running LOCALLY
+You can play on Roblox, Play Here: https://www.roblox.com/games/133701951494104
+However, running locally can also be done. 
+1. Install Roblox Studio from the [Roblox website](https://create.roblox.com/docs/studio/setup)
+2. Follow login/signup
+3. Download the TheWindowsV2.rbxl from this repo.
+4. Double click/open with Roblox studio.
+5. Click the playtest button at the top left of screen.
 
 ## Gameplay
 
