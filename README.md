@@ -23,6 +23,12 @@ However, running locally can also be done.
 - Talk to NPCs and choose dialoge choices
 - Cutscenes, camera transitions 
 - Reach one of 2 story endings based on the final decision.
+<img width="744" height="467" alt="Screenshot 2026-10-01 at 8 56 45 AM" src="https://github.com/user-attachments/assets/9bf65b4d-91d8-4b23-bb9e-966d1976e63a" />
+
+<img width="743" height="458" alt="Screenshot 2026-10-01 at 8 57 02 AM" src="https://github.com/user-attachments/assets/3172a423-34d1-47a7-ac8c-9840f82710c8" />
+
+<img width="758" height="603" alt="Screenshot 2026-10-01 at 8 57 22 AM" src="https://github.com/user-attachments/assets/6c8d5ccb-1419-4f20-93b5-6f57c2fcc44d" />
+
 
 ## Project Structure
 
